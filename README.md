@@ -1,7 +1,11 @@
 -👋 Hi, My name is @ErikRibeiro.
+
 -👀 I’m interested in get work on the area of technology.
+
 -🌱 I’m currently learning systems development.
+
 -💞️ I’m looking to collaborate on in everything that is focused on the area of information technology.
+
 -📫 How to reach me ribeiroerik0007@gmail.com.
 
 <!---
