@@ -1,4 +1,4 @@
--👋 Hi, My name is @ErikRibeiro.
+-👋 Hi, my name is @ErikRibeiro.
 
 -👀 I’m interested in get work on the area of technology.
 
